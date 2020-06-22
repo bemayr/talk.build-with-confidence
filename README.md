@@ -4,7 +4,7 @@
 </div>
 <br />
 
-![frontpage](frontpage.png)
+![frontpage](frontpage.jpg)
 
 > Materials for my talk about API design, fluent interfaces, the builder pattern and [Statecharts.NET](https://github.com/bemayr/Statecharts.NET/).
 
